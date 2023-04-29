@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/testSite/static/css/main.65d96c3e.css",
-    "main.js": "/testSite/static/js/main.06b5a4a4.js",
+    "main.css": "/testSite/static/css/main.a98da3c0.css",
+    "main.js": "/testSite/static/js/main.2d2cdcc3.js",
+    "static/media/addDishes.png": "/testSite/static/media/addDishes.a4217b06e8c2e8873dbf.png",
     "static/media/card4-people.png": "/testSite/static/media/card4-people.5032d4a874273328b9b3.png",
     "static/media/peopleFeedbackBig.png": "/testSite/static/media/peopleFeedbackBig.9709cdbd240a3f770e5e.png",
-    "static/media/addDishes.png": "/testSite/static/media/addDishes.335bb943a7610e17e71f.png",
     "static/media/mobileApp.png": "/testSite/static/media/mobileApp.327c7e1802c8911de6c6.png",
     "static/media/detailsVideo.png": "/testSite/static/media/detailsVideo.a17bcfd0f686899f6f03.png",
     "static/media/customer.png": "/testSite/static/media/customer.68dc8cdee0565b1e19e6.png",
     "static/media/WhatIsAkicomo.png": "/testSite/static/media/WhatIsAkicomo.46edd8aeff519f559d40.png",
     "static/media/menu.png": "/testSite/static/media/menu.ef97b53662a78fc4c5d6.png",
     "static/media/happyCustomer.png": "/testSite/static/media/happyCustomer.cdc95e09903ff7dc6373.png",
+    "static/media/background-dishes.png": "/testSite/static/media/background-dishes.159b5eb6695803684a42.png",
     "static/media/card2.png": "/testSite/static/media/card2.51556e653b9c090153fd.png",
     "static/media/yourCourier.png": "/testSite/static/media/yourCourier.62951936b3b4248c0188.png",
     "static/media/restaurant.png": "/testSite/static/media/restaurant.b3c40cd31e3b47990b3f.png",
@@ -44,11 +45,11 @@
     "index.html": "/testSite/index.html",
     "static/media/squareActive.svg": "/testSite/static/media/squareActive.99a945cd43c73d0a42330267e62b681d.svg",
     "static/media/squareNoActive.svg": "/testSite/static/media/squareNoActive.ee80a631a1cb7146489a739cca1c5cc1.svg",
-    "main.65d96c3e.css.map": "/testSite/static/css/main.65d96c3e.css.map",
-    "main.06b5a4a4.js.map": "/testSite/static/js/main.06b5a4a4.js.map"
+    "main.a98da3c0.css.map": "/testSite/static/css/main.a98da3c0.css.map",
+    "main.2d2cdcc3.js.map": "/testSite/static/js/main.2d2cdcc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d96c3e.css",
-    "static/js/main.06b5a4a4.js"
+    "static/css/main.a98da3c0.css",
+    "static/js/main.2d2cdcc3.js"
   ]
 }
